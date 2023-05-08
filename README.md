@@ -19,6 +19,12 @@ Brought to you by the **MastersMZ scripts team!**
   <li>  Colorful UI themes </li>
 </ul>
 
+<br>
+
+# MastaHub loadstring:
+```lua
+loadstring(game:HttpGet('https://mastahub.xyz/script'))()
+```
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
