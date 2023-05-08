@@ -1,6 +1,6 @@
 # MastaHub
 
-<img src="https://assets.nicepagecdn.com/7c2db0dd/4597569/images/image7.png" style="width: 40%">
+<img src="https://assets.nicepagecdn.com/7c2db0dd/4597569/images/image7.png" style="width: 70%">
 
 [![MIT License][license-shield]][license-url]
 [![Stargazers][stars-shield]][stars-url]
