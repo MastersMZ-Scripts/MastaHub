@@ -23,7 +23,7 @@ Brought to you by the **MastersMZ scripts team!**
 
 # MastaHub loadstring:
 ```lua
-loadstring(game:HttpGet('https://mastahub.xyz/script'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MastersMZ-Scripts/MastaHub/main/Loader.lua'))()
 ```
 
 <!-- MARKDOWN LINKS & IMAGES -->
