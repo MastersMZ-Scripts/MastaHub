@@ -6,10 +6,12 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-The **BEST** always updating Roblox hub full of scripts from www.mastersmzscripts.com <br>
+The **BEST** always updating Roblox hub full of scripts from [MastersMZ scripts](www.mastersmzscripts.com) <br>
 Brought to you by the **MastersMZ scripts team!**
 
-<hr>
+[Discord | Obtain key](https://discord.gg/j67Y5yuwCu)
+
+<br>
 
 # Features:
 <ul>
@@ -21,7 +23,7 @@ Brought to you by the **MastersMZ scripts team!**
 
 <br>
 
-# MastaHub loadstring:
+# Loadstring:
 ```lua
 loadstring(game:HttpGet('https://raw.githubusercontent.com/MastersMZ-Scripts/MastaHub/main/Loader.lua'))()
 ```
